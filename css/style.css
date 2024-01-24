@@ -111,7 +111,7 @@ header nav.menu ul.nav-list li ul li a:hover { color: #333; border-bottom: 2px s
 
 .mainIMG .rMain .rMain_bottom .main4 .main4_inner p { font-family: 'Noto Sans KR', sans-serif; font-size: 16px; } 
 
-.mainIMG .rMain .rMain_bottom .shopBTN { width: 20%; padding-left: auto; padding-right: 15%; position: relative; margin-right: 7%; } 
+.mainIMG .rMain .rMain_bottom .shopBTN { width: 20%; padding-right: 15%; position: relative; margin-right: 7%; } 
 
 .mainIMG .rMain .rMain_bottom .shopBTN a { position: absolute; top: 55%; transform: translateY(-50%); } 
 
